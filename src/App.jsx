@@ -15,8 +15,9 @@ function App() {
         <input type="file" className='w-full'/>
         <p>Sube una imagen de futbol</p>
     </div>  
+    <button className='bg-blue-600 py-2 px-12 rounded-md text-white'>Enviar imagen a los administradores</button>
 
-    <a href='https://www.google.com' className='bg-blue-600 py-2 px-12 rounded-md text-white'>Ir google </a>
+    {/* <a href='https://www.google.com' className='bg-blue-600 py-2 px-12 rounded-md text-white'>Ir google </a> */}
       </div>
     </>
   )
